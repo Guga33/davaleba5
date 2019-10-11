@@ -1,0 +1,26 @@
+/*COMMONE ONES*/
+.inline-block{
+	display: inline-block;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+/*END COMMON ONES*/
+.green-bg{
+	background-color: #22B573;
+}
+/*header*/
+.main-logo{
+	width: 201px;
+
+}
+
+
+
+/*end header*/
